@@ -6,7 +6,6 @@
 #include <string>
 #include <list>
 #include <ostream> 
-//#define  _CRT_SECURE_NO_WARNINGS 1
 #include <ctime> 
 #include <time.h>
 
